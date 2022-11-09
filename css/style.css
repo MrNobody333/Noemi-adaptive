@@ -69,7 +69,7 @@ ul[class] {
   padding: 50px 30px 0;
   background-color: #fff;
 	transform: perspective(500px) translate(0, -100%) rotateX(45deg);
-	transition: transform .7s ease-in;
+	transition: transform .7s ease;
 }
 
 .popup-close {
