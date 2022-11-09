@@ -665,6 +665,12 @@ p.last-paragraph {
 	text-align: center;
 }
 
+.shop-item img {
+	max-width: 285px;
+	max-height: 285px;
+	width: 100%;
+}
+
 .shop-description {
 	flex-grow: 1;
 	max-width: 29.2rem;
