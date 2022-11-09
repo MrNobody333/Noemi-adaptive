@@ -878,10 +878,10 @@ address .fa-github:hover {
 		padding: 17.3rem 0 21.8rem;
 	}
 	.main-title {
-    font-size: 2.5rem;
+    		font-size: 2.5rem;
 	}
 	.large-title {
-    font-size: 1.6rem;
+    		font-size: 1.6rem;
 	}
 	.trend-block {
 		flex-basis: 99.8%;
@@ -890,9 +890,9 @@ address .fa-github:hover {
 		margin-bottom: 3px;
 	}
 	.news {
-    justify-content: space-between;
+    		justify-content: space-between;
 		flex-direction: column;
-    margin: 4.4rem 0;
+    		margin: 4.4rem 0;
 	}
 	.news-inner {
 		flex-direction: column;
@@ -904,26 +904,29 @@ address .fa-github:hover {
 	}
 	.news-text h2 {
 		margin-bottom: 2.4rem;
-    font-size: 1.6rem;
+    		font-size: 1.6rem;
 	}
 	.news-text p {
-    margin-top: 2.5rem;
+    		margin-top: 2.5rem;
 	}
 	.block-title {
-    font-size: 1.6rem;
+    		font-size: 1.6rem;
 	}
 	.sidebar {
 		max-width: 329px;
-    margin: 0 auto;
+    		margin: 0 auto;
 	}
 	.sidebar-news h3 {
-    font-size: 1.4rem;
+    		font-size: 1.4rem;
 	}
 	.search-form {
-    margin-bottom: 4.4rem;
+    		margin-bottom: 4.4rem;
 	}
 	.our-shop {
-    justify-content: space-around;
+    		justify-content: space-around;
+	}
+	.shop-item {
+    		flex-basis: 100%;
 	}
 }
 
